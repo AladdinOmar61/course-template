@@ -12,13 +12,13 @@ Congratulations on nearing the end of Unit 1! We'll be using the concepts covere
 
 1. Be built with HTML, CSS, and JavaScript.
 2. Use Axios to consume data from an external source, and render that data into the DOM.
-3. Use flexbox (`display: flex`).
+3. Use flexbox (display: flex).
 4. Implement responsive design on 3 screen sizes (including desktop) using 2 media queries (tablet and mobile).
 5. Host on Surge. _(We will go over this together.)_
 
 ### Procedural Requirements
-1. Have GitHub commits (documenting good progress) **every day**.
-2. Have a well-developed `README.md` file explaining technologies used, approaches taken, a link to your live site, relevant instructions for viewers, and any unsolved problems.
+1. Have GitHub commits, documenting good progress, **every day**.
+2. Have a well-developed `README.md` file explaining technologies used, approaches taken, a link to your live site, relevant instructions for viewers, and any unsolved problems. _(We will go over this in "Pitch Your Project Idea" below.)_
 
 ## The Post-MVP
 
@@ -37,8 +37,6 @@ Achieve your MVP with time to spare? Try aiming for some stretch goals. (The fol
     _and/or_
 
 2. Present your app science-fair style. Talk to your visitors, explain your app, pitch them on its value. Commisserate together on surviving project week stress.
-
-
 
 <br>
 
@@ -193,7 +191,7 @@ _(From previous survivors of project week.)_
 
 <br>
 
-<!-- # A Note on Plagiarism
+# A Note on Plagiarism
 
 **Remember**, General Assembly has a **zero tolerance policy** towards plagiarism and cheating. It is destructive to classroom culture, and exhibits a clear lack of respect for classmates, instructors, the company, and the greater engineering community. Any work considered to have been plagiarized **will not be accepted** and will not count towards graduation requirements. If a project exhibits evidence of plagiarism or cheating, the student will not be able to display the project at a GA-sponsored class “science fair” or “meet & greet.” Any student found plagiarizing or attempting to plagiarize will be disciplined accordingly (including but not limited to removal from class).
 
@@ -217,4 +215,4 @@ In an effort to not plagiarize, credit for this content goes to:
   - [What is Plagiarism](http://www.plagiarism.org/plagiarism-101/what-is-plagiarism)
   - [Types of Plagiarism](http://www.plagiarism.org/plagiarism-101/types-of-plagiarism)
   - [How do I safely write code in my own 'words' and not plagiarize?](http://programmers.stackexchange.com/questions/80167/how-do-i-safely-write-code-in-my-own-words-and-not-plagiarize)
-- [Avoiding Plagiarism:  Writing Computer Code](http://www.upenn.edu/academicintegrity/ai_computercode.html) -->
+- [Avoiding Plagiarism:  Writing Computer Code](http://www.upenn.edu/academicintegrity/ai_computercode.html)
