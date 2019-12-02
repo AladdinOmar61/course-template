@@ -14,13 +14,13 @@ Congratulations on nearing the end of Unit 1! We'll be using the concepts covere
 
 1. Be built with HTML, CSS, and JavaScript.
 2. Use Axios to consume data from an external source, and render that data into the DOM.
-3. Use flexbox (`display: flex`).
+3. Use flexbox (display: flex).
 4. Implement responsive design on 3 screen sizes (including desktop) using 2 media queries (tablet and mobile).
 5. Host on Surge. _(We will go over this together.)_
 
 ### Procedural Requirements
-1. Have GitHub commits (documenting good progress) **every day**.
-2. Have a well-developed `README.md` file explaining technologies used, approaches taken, a link to your live site, relevant instructions for viewers, and any unsolved problems.
+1. Have GitHub commits, documenting good progress, **every day**.
+2. Have a well-developed `README.md` file explaining technologies used, approaches taken, a link to your live site, relevant instructions for viewers, and any unsolved problems. _(We will go over this in "Pitch Your Project Idea" below.)_
 
 <br>
 
@@ -43,8 +43,6 @@ Achieve your MVP with time to spare? Try aiming for some stretch goals. (The fol
     _and/or_
 
 2. Present your app science-fair style. Talk to your visitors, explain your app, pitch them on its value. Commisserate together on surviving project week stress.
-
-
 
 <br>
 
