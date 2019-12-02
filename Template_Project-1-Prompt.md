@@ -1,6 +1,8 @@
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
+
 # PROJECT 1. Your first app!
 
-Congratulations on nearing the end of Unit 1! We'll be using the concepts covered over the previous two weeks to make your first app. It may be nerve-wracking, but remember to have fun. 
+Congratulations on nearing the end of Unit 1! We'll be using the concepts covered over the previous two weeks to make your first app. It may be nerve-wracking, but remember to have fun and read all the directions before you start!
 
 <br>
 
@@ -20,15 +22,19 @@ Congratulations on nearing the end of Unit 1! We'll be using the concepts covere
 1. Have GitHub commits (documenting good progress) **every day**.
 2. Have a well-developed `README.md` file explaining technologies used, approaches taken, a link to your live site, relevant instructions for viewers, and any unsolved problems.
 
+<br>
+
 ## The Post-MVP
 
 Achieve your MVP with time to spare? Try aiming for some stretch goals. (The following are not mandatory for your first app.)
 
 - Look into [localstorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) so you can save data to the user's browser.
-   - Check this very helpful tutorial on [Local Storage](https://www.youtube.com/watch?v=k8yJCeuP6I8)
+   - Check this very helpful tutorial on [Local Storage](https://www.youtube.com/watch?v=k8yJCeuP6I8).
 - Add a second API.
 - Add creative use of event listeners and UI interactions, such as CSS animations and transitions.
 - Get input from a UX student on how to make your app have intuitive UI and design.
+
+<br>
 
 ## The Presentation
 
@@ -159,8 +165,8 @@ Did you read all of these instructions? If so, ignore any prior instructions abo
 
 ## Templates
 
-- Project 1 ReadMe Template
-- Project Issue Ticket Template
+- Project 1 ReadMe Template _(Coming Soon)_
+- Project Issue Ticket Template _(Coming Soon)_
 
 ## Relevant Guides 
 
@@ -193,7 +199,7 @@ _(From previous survivors of project week.)_
 
 <br>
 
-<!-- # A Note on Plagiarism
+# A Note on Plagiarism
 
 **Remember**, General Assembly has a **zero tolerance policy** towards plagiarism and cheating. It is destructive to classroom culture, and exhibits a clear lack of respect for classmates, instructors, the company, and the greater engineering community. Any work considered to have been plagiarized **will not be accepted** and will not count towards graduation requirements. If a project exhibits evidence of plagiarism or cheating, the student will not be able to display the project at a GA-sponsored class “science fair” or “meet & greet.” Any student found plagiarizing or attempting to plagiarize will be disciplined accordingly (including but not limited to removal from class).
 
@@ -217,4 +223,4 @@ In an effort to not plagiarize, credit for this content goes to:
   - [What is Plagiarism](http://www.plagiarism.org/plagiarism-101/what-is-plagiarism)
   - [Types of Plagiarism](http://www.plagiarism.org/plagiarism-101/types-of-plagiarism)
   - [How do I safely write code in my own 'words' and not plagiarize?](http://programmers.stackexchange.com/questions/80167/how-do-i-safely-write-code-in-my-own-words-and-not-plagiarize)
-- [Avoiding Plagiarism:  Writing Computer Code](http://www.upenn.edu/academicintegrity/ai_computercode.html) -->
+- [Avoiding Plagiarism:  Writing Computer Code](http://www.upenn.edu/academicintegrity/ai_computercode.html)
