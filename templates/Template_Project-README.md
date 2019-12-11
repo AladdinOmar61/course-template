@@ -1,12 +1,8 @@
 # **Project Title**
 
-***
-
 ## Project Planning
 
 > The Project Planning section should be completed for your project pitch with instructors.
-
-<br>
 
 ### Overview
 
@@ -22,21 +18,33 @@ _**Project Title** is lorem ipsum dolor sit amet. Phasellus dapibus fermentum ri
 
 - Desktop Landing
 
+<br>
+
 ![Desktop Hero](url)
 
 - Desktop Hero
+
+<br>
 
 ![Desktop Data Index](url)
 
 - Desktop Data Index
 
+<br>
+
 ![Tablet Data Index](url)
 
 - Tablet Data Index
 
+<br>
+
 ![Mobile Data Index](url)
 
 - Mobile Data Index
+
+<br>
+
+***
 
 <br>
 
@@ -46,8 +54,6 @@ _**Project Title** is lorem ipsum dolor sit amet. Phasellus dapibus fermentum ri
 
 _The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dapibus fermentum risus vitae bibendum. Integer vel ipsum mollis odio sollicitudin ornare eu vel ex. In quis fringilla velit, ac maximus quam. Etiam eget placerat neque. Aenean faucibus sem non nisi lobortis ullamcorper._
 
-<br>
-
 #### Goals
 
 - _Lorem ipsum, dolor sit amet,_
@@ -55,8 +61,6 @@ _The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing el
 - _Phasellus dapibus fermentum risus vitae bibendum._
 - _Integer vel ipsum mollis odio sollicitudin ornare eu vel ex._
 - _etc._
-
-<br>
 
 #### Libraries
 
@@ -68,9 +72,7 @@ _The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing el
 | React SemanticUI | _Lorem ipsum dolor sit amet, consectetur._ |
 |   React Spring   | _Lorem ipsum dolor sit amet, consectetur._ |
 
-<br>
-
-#### Data
+#### API Data
 
 > Use the Data Section to define the API(s) you will be consuming for your project, inluding sample URL queries.
 
@@ -78,9 +80,9 @@ _The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing el
 | :--------: | :-----------: | :------------ | :-------------------------------------- |
 | WeatherAPI |      yes      | _example.com_ | _example.com/mickeymouse?s=movies&t=10_ |
 
-<br>
+#### React Components
 
-#### Component Hierarchy
+_Component Hierarchy_
 
 > Use this section to define your React components and the data architecture of your app.
 
@@ -101,9 +103,7 @@ src
       |__ Footer.jsx
 ```
 
-<br>
-
-#### Component Breakdown
+_Component Breakdown_
 
 > Use this section to go into further depth regarding your components, including breaking down the components as stateless or stateful, and considering the passing of data between those components.
 
@@ -115,9 +115,7 @@ src
 | Gallery Card | functional |   n   |   y   | _The cards will render the post info via props._                 |
 |    Footer    | functional |   n   |   n   | _The footer will show info about me and a link to my portfolio._ |
 
-<br>
-
-#### Component Estimates
+_Component Estimates_
 
 > Use this section to estimate the time necessary to build out each of the components you've described above.
 
@@ -127,19 +125,11 @@ src
 | Create CRUD Actions |    H     |     3 hrs      |     1 hrs     |     TBD     |
 | TOTAL               |          |     6 hrs      |     3 hrs     |     TBD     |
 
-<br>
-
 > _Why is this necessary? Time frames are key to the development cycle. You have limited time to code your app, and your estimates can then be used to evalute possibilities of your MVP and post-MVP based on time needed. It's best you assume an additional hour for each component, as well as a few hours added to the total time, to play it safe._
 
 <br>
 
-#### Helper Functions
-
-> Use this section to document all helper functions– generic functions that can be reused in other applications.
-
-|  Function  | Description                                |
-| :--------: | :----------------------------------------- |
-| Capitalize | _Lorem ipsum dolor sit amet, consectetur._ |
+***
 
 <br>
 
@@ -147,13 +137,9 @@ src
 
 > Use this section to document ideas you've had that would be fun (or necessary) for your Post-MVP. This will be helpful when you return to your project after graduation!
 
-<br>
-
 #### Post-MVP Goals
 
 - _Add user account and auth capabilities._
-
-<br>
 
 #### Post-MVP Data
 
@@ -163,9 +149,20 @@ src
 
 ***
 
+<br>
+
 ## Project Delivery
 
 > The Delivery section should be expanded and revised as you work on your project.
+
+### Helper Functions
+
+> Use this section to document all helper functions– generic functions that can be reused in other applications.
+
+|  Function  | Description                                |
+| :--------: | :----------------------------------------- |
+| Capitalize | _Lorem ipsum dolor sit amet, consectetur._ |
+
 
 ### Code Showcase
 
