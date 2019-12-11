@@ -7,7 +7,7 @@ Welcome to SEI Cheetahs! This will be used for most of the information you will 
 ## Contents
 
 - [SEI Cheetahs Class Information](#SEI-Cheetahs-Class-Information)
-- [![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) SOFTWARE ENGINEERING IMMERSIVE](#httpsga-dashs3amazonawscomproductionassetslogo-9f88ae6c9c3871690e33280fcf557f33png-SOFTWARE-ENGINEERING-IMMERSIVE)
+- [<img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt=""> SOFTWARE ENGINEERING IMMERSIVE](#img-src%22httpsga-dashs3amazonawscomproductionassetslogo-9f88ae6c9c3871690e33280fcf557f33png%22-alt%22%22-SOFTWARE-ENGINEERING-IMMERSIVE)
   - [Contents](#Contents)
   - [Contact Information](#Contact-Information)
     - [Instructional Team](#Instructional-Team)
