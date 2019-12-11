@@ -125,8 +125,6 @@ _Component Estimates_
 
 > _Why is this necessary? Time frames are key to the development cycle. You have limited time to code your app, and your estimates can then be used to evalute possibilities of your MVP and post-MVP based on time needed. It's best you assume an additional hour for each component, as well as a few hours added to the total time, to play it safe._
 
-<br>
-
 #### Helper Functions
 
 > Use this section to document all helper functions– generic functions that can be reused in other applications.
