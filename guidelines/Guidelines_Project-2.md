@@ -2,11 +2,11 @@
 
 # PROJECT 2: Your React App
 
-Congratulations everyone! You're nearly done with Unit 2, which means you've conquered the basics of HTML, CSS, and Javascript, and now we get to kick it up a notch with modular and modern front-end applications using the React framework! 
+Congratulations everyone! You're nearly done with Unit 2, which means you've conquered the basics of HTML, CSS, and Javascript, and now we get to kick it up a notch with modular and modern front-end applications using the React framework!
 
 As with P1, the Unit 2 Project is a chance to be creative and build something you can be proud of. You will be working individually on this project, but don't worry– we know stateful versus stateless can be very confusing at first, but that doesn't mean you'll be _persona non grata_ for this project. We'll be helping you out along the way.
 
-Remember to have fun and read all the directions before you start!
+Remember to have fun and _read all the directions before you start_!
 
 <br>
 
@@ -26,11 +26,12 @@ Remember to have fun and read all the directions before you start!
 - Implement an organized and understandable React file structure.
 - Utilize functional and class React components appropriately.
 - Use Axios to consume data from an third party API, and render that data in your components. (Remember, many lists of good API's are listed in the #Resources section.)
+- Use **only** React for DOM Manipulation.
 
 ### Styling
 
 - Be styled with CSS.
-- Use flexbox (`display: flex`).
+- Use flexbox (`display: flex`) or CSS Grid.
 - Implement responsive design on 3 screen sizes (including desktop) using 2 media queries (tablet and mobile).
   
 ### Linting
@@ -39,7 +40,7 @@ Remember to have fun and read all the directions before you start!
 - Utilize high-quality, semantic variable names.
 - Follow `camelCase` and `kebab-case` conventions.
 - Remove unnecessary boilerplate React files and code.
-- Use **only** React for DOM Manipulation.
+- Remove all `console.log()`s and commented out code (functional notes and comments are okay).
 
 ### Deployment
 
@@ -164,8 +165,6 @@ After this, we'll go around the squad once more, indicating what "percent MVP" y
 
 When you experience issues with your code, once again, you will need to use the GitHub Issues tab. The Issue Ticket templates help you observe, research, and attempt to resolve your issue. If there's still no resolution, submit and slack the issue ticket your squad leader to reserve time to troubleshoot together.
 
-With that, your Project 2 is **complete**!
-
 <br>
 
 # MOAR RESOURCES
@@ -184,8 +183,10 @@ With that, your Project 2 is **complete**!
 - Chuck Norris: http://www.icndb.com/
 - Rick and Morty: https://rickandmortyapi.com/documentation/#rest
 - Word API: https://www.wordsapi.com/
+
 - For more comprehensive lists, check:
   - https://github.com/toddmotto/public-apis
+  - https://github.com/abhishekbanthia/Public-APIs
   - https://rapidapi.com/
 
 ## Templates
@@ -193,24 +194,12 @@ With that, your Project 2 is **complete**!
 - Project 1 ReadMe Template _(Coming Soon)_
 - Project Issue Ticket Template _(Coming Soon)_
 
-## Relevant Guides 
+## Relevant Guides
 
 - [GitHub Docs: Create A New Repo](https://help.github.com/articles/create-a-repo/)
+- [React Router Training Docs](https://reacttraining.com/react-router/)
 
-## Sample Projects & Their Readme
-
-- [Match'em](http://cardmatch.surge.sh/)
-  - 
-- [MacroManager](https://macromanager.surge.sh/)
-  - 
-- [MentalHealthable](http://mentalhealthable.surge.sh/)
-  - 
-- [MooDivator](http://moodivator.surge.sh/)
-  - 
-- [Fretsy](http://alex-curtin-p-1.surge.sh/)
-  - 
-- [Yahtsee](http://yahtsee.surge.sh/)
-  - 
+## Sample Projects & Their Readme's
 
 <br>
 
@@ -227,3 +216,7 @@ _(From previous survivors of project week.)_
 > "Narrow your scope, especially if you’re chasing down a specific feature that you’ve never implemented.  Treat it as a chance to learn by doing and most importantly: build something you are happy to claim ownership of."
 
 > "Don’t try too hard. Really. Do something that’s achievable and put cool graphics and styling on it."
+
+# PLAGIARISM
+
+Remember. We have a **zero tolerance policy** towards plagiarism. More on our plagiarism policy can be found in our course wiki's [plagiarism page](https://git.generalassemb.ly/sei-nyc-cheetahs/project-2).

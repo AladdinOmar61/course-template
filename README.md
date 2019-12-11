@@ -67,6 +67,7 @@ Welcome, SEI Cheetahs! This repository will be used for most of the information 
 
 ### Unit 1
 Front-End Web Development Foundations - HTML, CSS, & JavaScript
+
   * [Week 1](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-1) – _11/12 to 11/15/19_
   * [Week 2](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-2) – _11/18 to 11/22/19_
   * [Week 3](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-3) – _11/25 to 11/27/19_ – Project 1

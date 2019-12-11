@@ -19,6 +19,7 @@ All of the following are considered plagiarism or cheating:
 - Failing to put a quotation in quotation marks.
 
 In an effort to not plagiarize, credit for this content goes to:
+
 - [Plagiarism.org](http://plagiarism.org/), specifically the “plagiarism 101” section.  Content was adapted for code.  For more information, please see:
   - [What is Plagiarism](http://www.plagiarism.org/plagiarism-101/what-is-plagiarism)
   - [Types of Plagiarism](http://www.plagiarism.org/plagiarism-101/types-of-plagiarism)
