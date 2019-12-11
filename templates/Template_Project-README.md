@@ -46,6 +46,8 @@ _**Project Title** is lorem ipsum dolor sit amet. Phasellus dapibus fermentum ri
 
 ***
 
+<br>
+
 ### MVP
 
 > The Minimum Viable Product should be a well-planned and easily-communicated product, ensuring that the client's deliverable will be achievable and meet specifications within the time frame estimated.
@@ -125,7 +127,11 @@ _Component Estimates_
 
 > _Why is this necessary? Time frames are key to the development cycle. You have limited time to code your app, and your estimates can then be used to evalute possibilities of your MVP and post-MVP based on time needed. It's best you assume an additional hour for each component, as well as a few hours added to the total time, to play it safe._
 
+<br>
+
 ***
+
+<br>
 
 ### Post-MVP
 
@@ -139,7 +145,11 @@ _Component Estimates_
 
 - _Utilize the Giphy API to welcome new users with funny gifs._
 
+<br>
+
 ***
+
+<br>
 
 ## Project Delivery
 
